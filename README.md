@@ -1,5 +1,5 @@
 # GameSettingsModule
- Modules for game settings.
+C# modules for game settings.
 
 # Install with UPM
 ```
