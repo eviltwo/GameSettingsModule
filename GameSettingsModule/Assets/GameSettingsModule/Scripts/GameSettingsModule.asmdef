@@ -1,0 +1,22 @@
+{
+    "name": "GameSettingsModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.localization",
+            "expression": "",
+            "define": "GAMESETTINGSMODULE_LOCALIZATION_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}

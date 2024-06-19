@@ -1,0 +1,17 @@
+{
+    "name": "com.eviltwo.game-settings-module",
+    "displayName": "Game Settings Module",
+    "version": "1.0.0",             
+    "unity": "2022.3",
+    "description": "Modules for game settings.",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+    ],
+
+    "dependencies": {
+    }
+}
